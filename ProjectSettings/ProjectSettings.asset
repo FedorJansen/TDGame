@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: 3cb9966bc53e24843b0ff3f647636c22
+  productGUID: 7c51c21d876942a4bb5c8c32abb7049a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Game Dev van School
+  productName: Tower Defense Game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -685,10 +685,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: a14dcd01-d021-4a5c-879b-333633124858
+  cloudProjectId: 2710f4ec-2f3d-40c6-9a7a-42eb2b89c303
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Game Dev van School
+  projectName: Tower Defense Game
   organizationId: agargamersinfo
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
